@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="813f5b22-d6d1-4814-ab9f-81c75705e2f6" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="813f5b22-d6d1-4814-ab9f-81c75705e2f6" name="Changes" comment="completed tests for both calculator and strings">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Calculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/StringUtilities.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/StringUtilities.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +47,7 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;JUnit.All in software-dev-course-classes-and-objects-1.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CalculatorTests.executor&quot;: &quot;Run&quot;,
     &quot;JUnit.StringUtilitiesTests.executor&quot;: &quot;Run&quot;,
     &quot;JUnit.org.example in software-dev-course-classes-and-objects-1.executor&quot;: &quot;Run&quot;,
     &quot;Maven.software-dev-course-classes-and-objects-1 [clean].executor&quot;: &quot;Run&quot;,
@@ -65,7 +64,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.All in software-dev-course-classes-and-objects-1">
     <configuration name="All in software-dev-course-classes-and-objects-1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="software-dev-course-classes-and-objects-1" />
       <option name="PACKAGE_NAME" value="" />
@@ -120,6 +119,30 @@
       <option name="presentableId" value="Default" />
       <updated>1738943649568</updated>
     </task>
+    <task id="LOCAL-00001" summary="completed tests for both calculator and strings">
+      <option name="closed" value="true" />
+      <created>1749396597632</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1749396597632</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="completed tests for both calculator and strings" />
+    <option name="LAST_COMMIT_MESSAGE" value="completed tests for both calculator and strings" />
   </component>
 </project>
